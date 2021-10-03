@@ -1,0 +1,23 @@
+[21-07-28 22:20:19] Tick Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WindBot.Game.GameBehavior.OnSelectChain(BinaryReader packet)
+   at WindBot.Game.GameBehavior.OnPacket(BinaryReader packet)
+   at WindBot.Game.GameClient.OnPacketReceived(BinaryReader reader)
+   at YGOSharp.Network.BinaryClient.ReceivePendingPackets()
+   at YGOSharp.Network.BinaryClient.Update()
+   at WindBot.Program.Run(Object o)
+[21-09-30 15:06:36] Tick Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WindBot.Game.Duel.AddCard(CardLocation loc, ClientCard card, Int32 player, Int32 seq, Int32 pos, Int32 id) in D:\a\windbot\windbot\ExecutorBase\Game\Duel.cs:line 143
+   at WindBot.Game.GameBehavior.OnMove(BinaryReader packet)
+   at WindBot.Game.GameBehavior.OnPacket(BinaryReader packet)
+   at WindBot.Game.GameClient.OnPacketReceived(BinaryReader reader)
+   at YGOSharp.Network.BinaryClient.ReceivePendingPackets()
+   at YGOSharp.Network.BinaryClient.Update()
+   at WindBot.Program.Run(Object o)
+[21-09-30 15:07:13] Tick Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WindBot.Game.Duel.AddCard(CardLocation loc, ClientCard card, Int32 player, Int32 seq, Int32 pos, Int32 id) in D:\a\windbot\windbot\ExecutorBase\Game\Duel.cs:line 143
+   at WindBot.Game.GameBehavior.OnMove(BinaryReader packet)
+   at WindBot.Game.GameBehavior.OnPacket(BinaryReader packet)
+   at WindBot.Game.GameClient.OnPacketReceived(BinaryReader reader)
+   at YGOSharp.Network.BinaryClient.ReceivePendingPackets()
+   at YGOSharp.Network.BinaryClient.Update()
+   at WindBot.Program.Run(Object o)

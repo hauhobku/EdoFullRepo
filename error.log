@@ -1,0 +1,73 @@
+[2021-09-29 21:55:31] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 4, column 13: syntax error while parsing object - invalid literal; last read: '""h'; expected '}'
+[2021-09-29 21:55:45] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 4, column 13: syntax error while parsing object - invalid literal; last read: '""h'; expected '}'
+[2021-09-29 21:55:51] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 21:55:59] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 21:58:29] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 4, column 13: syntax error while parsing object - invalid literal; last read: '""h'; expected '}'
+[2021-09-29 22:00:25] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 4, column 13: syntax error while parsing object - invalid literal; last read: '""h'; expected '}'
+[2021-09-29 22:00:40] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:00:50] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:05:35] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:05:35] [Script Error]: "CallCardFunction"(c78665705.initial_effect): attempt to call an error function
+[2021-09-29 22:05:57] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:05:57] [Script Error]: "CallCardFunction"(c78665705.initial_effect): attempt to call an error function
+[2021-09-29 22:07:00] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:07:00] [Script Error]: "CallCardFunction"(c78665705.initial_effect): attempt to call an error function
+[2021-09-29 22:08:16] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 4, column 13: syntax error while parsing object - invalid literal; last read: '""h'; expected '}'
+[2021-09-29 22:08:24] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:14:38] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 4, column 13: syntax error while parsing object - invalid literal; last read: '""h'; expected '}'
+[2021-09-29 22:15:04] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:15:04] [Script Error]: "CallCardFunction"(c78665705.initial_effect): attempt to call an error function
+[2021-09-29 22:18:19] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:18:19] [Script Error]: "CallCardFunction"(c78665705.initial_effect): attempt to call an error function
+[2021-09-29 22:23:50] [Script Error]: "CallCardFunction"(c4059313.initial_effect): attempt to call an error function
+[2021-09-29 22:23:50] [Script Error]: "CallCardFunction"(c78665705.initial_effect): attempt to call an error function
+[2021-09-30 14:35:32] [Script Error]: [string "c300102005.lua"]:7: attempt to call a nil value (field 'AddCard')
+[2021-09-30 14:36:36] [Script Error]: [string "c300102005.lua"]:153: attempt to index a nil value (global 'duel')
+[2021-09-30 14:57:57] [Script Error]: stack traceback:
+[2021-09-30 14:57:57] [Script Error]: 	[string "c300102005.lua"]:7: in main chunk
+[2021-09-30 14:57:57] [Script Error]: Parameter 3 should be "Int".
+[2021-09-30 14:58:23] [Script Error]: stack traceback:
+[2021-09-30 14:58:23] [Script Error]: 	[string "c300102005.lua"]:7: in main chunk
+[2021-09-30 14:58:23] [Script Error]: Parameter 3 should be "Int".
+[2021-09-30 15:04:36] [Script Error]: stack traceback:
+[2021-09-30 15:04:36] [Script Error]: 	[string "c300102005.lua"]:7: in function <[string "c300102005.lua"]:3>
+[2021-09-30 15:04:36] [Script Error]: Parameter 3 should be "Int".
+[2021-09-30 15:05:52] [Script Error]: [string "c300102005.lua"]:156: attempt to index a nil value (global 'duel')
+[2021-09-30 15:06:03] [Script Error]: [string "c300102005.lua"]:156: attempt to index a nil value (global 'duel')
+[2021-09-30 15:46:07] [Script Error]: [string "c300102005.lua"]:169: attempt to index a nil value (global 'duel')
+[2021-09-30 15:47:38] [Script Error]: [string "c300102005.lua"]:169: attempt to index a nil value (global 'duel')
+[2021-09-30 15:48:39] [Script Error]: [string "c300102005.lua"]:169: attempt to index a nil value (global 'duel')
+[2021-09-30 15:49:26] [Script Error]: [string "c300102005.lua"]:169: attempt to index a nil value (global 'duel')
+[2021-09-30 15:49:43] [Script Error]: [string "c300102005.lua"]:169: attempt to index a nil value (global 'duel')
+[2021-09-30 15:53:17] [Script Error]: [string "c300102005.lua"]:181: attempt to index a nil value (global 'duel')
+[2021-09-30 16:33:36] [Script Error]: [string "c300102005.lua"]:147: 'then' expected near 'return'
+[2021-09-30 16:33:36] [Script Error]: "CallCardFunction"(c300102005.initial_effect): attempt to call an error function
+[2021-09-30 16:59:41] [Script Error]: [string "c300102005.lua"]:147: 'then' expected near 'return'
+[2021-09-30 16:59:41] [Script Error]: "CallCardFunction"(c300102005.initial_effect): attempt to call an error function
+[2021-09-30 17:23:06] [Script Error]: stack traceback:
+[2021-09-30 17:23:06] [Script Error]: 	[string "c300102005.lua"]:6: in function <[string "c300102005.lua"]:3>
+[2021-09-30 17:23:06] [Script Error]: Parameter 3 should be "Int".
+[2021-09-30 17:23:24] [Script Error]: stack traceback:
+[2021-09-30 17:23:24] [Script Error]: 	[string "c300102005.lua"]:6: in function <[string "c300102005.lua"]:3>
+[2021-09-30 17:23:24] [Script Error]: Parameter 3 should be "Int".
+[2021-09-30 17:23:24] [Script Error]: stack traceback:
+[2021-09-30 17:23:24] [Script Error]: 	[string "c300102005.lua"]:7: in function <[string "c300102005.lua"]:3>
+[2021-09-30 17:23:24] [Script Error]: Parameter 3 should be "Int".
+[2021-09-30 21:59:01] [Script Error]: [string "c300102005.lua"]:156: attempt to index a nil value (global 'duel')
+[2021-09-30 21:59:58] [Script Error]: [string "c300102005.lua"]:157: attempt to index a nil value (global 'duel')
+[2021-09-30 22:00:33] [Script Error]: [string "c300102005.lua"]:157: attempt to index a nil value (global 'duel')
+[2021-09-30 22:00:48] [Script Error]: [string "c300102005.lua"]:157: attempt to index a nil value (global 'duel')
+[2021-09-30 22:01:11] [Script Error]: [string "c300102005.lua"]:157: attempt to index a nil value (global 'duel')
+[2021-09-30 22:02:02] [Script Error]: [string "c300102005.lua"]:157: attempt to index a nil value (global 'duel')
+[2021-09-30 22:05:06] [Script Error]: [string "c300102005.lua"]:155: syntax error near 's'
+[2021-09-30 22:05:06] [Script Error]: "CallCardFunction"(c300102005.initial_effect): attempt to call an error function
+[2021-09-30 22:28:31] [Script Error]: stack traceback:
+[2021-09-30 22:28:31] [Script Error]: 	[string "c300102005.lua"]:10: in main chunk
+[2021-09-30 22:28:31] [Script Error]: Parameter 3 should be "Int".
+[2021-09-30 22:31:33] [Script Error]: stack traceback:
+[2021-09-30 22:31:33] [Script Error]: 	[string "c300102005.lua"]:10: in main chunk
+[2021-09-30 22:31:33] [Script Error]: Parameter 2 should be "Int".
+[2021-09-30 22:35:07] [Script Error]: [string "./puzzles/Canon collection/Tutorials/Tutorial..."]:6: unexpected symbol near ','
+[2021-09-30 22:35:13] [Script Error]: stack traceback:
+[2021-09-30 22:35:13] [Script Error]: 	[string "./puzzles/Canon collection/Tutorials/Tutorial..."]:6: in main chunk
+[2021-09-30 22:35:13] [Script Error]: Parameter 3 should be "Int".
